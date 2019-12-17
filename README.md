@@ -29,9 +29,9 @@ Project Flogo is an ultra-light, Go-based open source ecosystem for building eve
 
 - **App = Trigger(s) + Actions[&Activities]**
 - **Triggers**
-  - receive data from external sources.
+  - receive data from external sources
   - are managed by a configurable threading model
-  - have a common interface enabling anyone to build a Flogo trigger.
+  - have a common interface enabling anyone to build a Flogo trigger
 - **Handlers**
   - dispatch events to actions
 - **Actions**
